@@ -1,0 +1,29 @@
+
+
+.bg{
+	background-image: url('../img/bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+* { box-sizing: border-box; }
+
+body { font-family: sans-serif; }
+body { font-family: sans-serif; }
+
+.carousel {
+  background: #083398;
+  padding: 20px;
+}
+
+.carousel-cell {
+  width: 28%;
+  height: 200px;
+  margin-right: 10px;
+  background: #888dcc;
+  border-radius: 5px;
+  counter-increment: gallery-cell;
+}
+
+
+
